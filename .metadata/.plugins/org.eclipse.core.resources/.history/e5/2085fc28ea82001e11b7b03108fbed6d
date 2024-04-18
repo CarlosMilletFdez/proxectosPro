@@ -1,0 +1,17 @@
+package preparatorios08_16;
+
+public class prepara09 {
+
+	public static void main(String[] args) {
+		
+		byte a, c, e;
+		short b, d, f;
+		
+		
+		//13142+65536=78678
+				//22452+ 65536=87988
+				//65536+(-32171)=33365 + 65536=98901
+
+	}
+
+}

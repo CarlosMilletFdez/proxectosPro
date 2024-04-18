@@ -1,0 +1,49 @@
+package preparatorios08_16;
+
+import java.util.Scanner;
+
+public class prepara08 {
+
+	public static void main(String[] args) {
+
+			int idade = 0, cont60 = 0, cont45 = 0, cont35 = 0;
+			Scanner teclado = new Scanner(System.in);
+
+			System.out.print("Dame IDADE: ");
+			idade = teclado.nextInt();
+
+			while (idade >= 25 && idade <= 60 ) {
+
+				System.out.print("CORRECTO, idade pulsada: " + idade+" -> modificado este intervalo:" );
+				
+				if (idade >= 25 && idade < 30) {
+					cont35 = cont35 + 1;
+					System.out.print("(25,35)");
+				}
+					else if (idade >= 30 && idade <= 35) {
+					cont45 = cont45 + 1;
+					System.out.print("(30,45)");
+				}
+				
+				if (idade>=30 && idade<40){
+					cont35 = cont35 + 1;
+					System.out.print("(25,35)");
+				}
+					else if (idade >= 40 && idade <= 45) {
+						cont45 = cont45 + 1;
+						System.out.print("(30,45)");
+					}
+				if (idade>=40 && idade <60)
+
+				System.out.print("\nDame IDADE: ");
+				idade = teclado.nextInt();
+			}
+
+			System.out.println("+++++> Entre 25 e 35 pulsaronse " + cont35 + " idades");
+			System.out.println("+++++> Entre 30 e 45 pulsaronse " + cont45 + " idades");
+			System.out.println("+++++> Entre 40 e 65 pulsaronse " + cont60 + " idades");
+			
+			teclado.close();
+		}
+
+	}

@@ -1,0 +1,21 @@
+package preparatorios01_07;
+
+public class prepara01 {
+
+	public static void main(String[] args) {
+		byte a, c, e;
+		short b, d, f;
+		double x, y, z;
+		
+		x=75000;
+		a=(byte)x;
+		b=(short)x;
+		
+		y=85000;
+		c=(byte)y;
+		d=(short)y;
+		System.out.println("\n a: "+a+" b: "+b);
+
+	}
+
+}

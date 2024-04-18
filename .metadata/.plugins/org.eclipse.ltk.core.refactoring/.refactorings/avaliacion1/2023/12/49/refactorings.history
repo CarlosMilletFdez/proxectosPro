@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CSerie.java&apos; to &apos;avaliacion1/src/examen2023&apos;&#x0D;&#x0A;- Original project: &apos;avaliacion1&apos;&#x0D;&#x0A;- Destination element: &apos;avaliacion1/src/examen2023&apos;&#x0D;&#x0A;- Original element: &apos;misClases.avaliacion1.CSerie.java&apos;" description="Copy compilation unit" destination="/src&lt;examen2023" element1="/src&lt;misClases.avaliacion1{CSerie.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1701688296471" units="1" version="1.0"/>
+</session>

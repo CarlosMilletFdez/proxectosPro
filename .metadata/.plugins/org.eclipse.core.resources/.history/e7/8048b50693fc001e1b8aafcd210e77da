@@ -1,0 +1,20 @@
+package misClases.teoria;
+
+public class CBanco {
+	
+	private CCuenta[] clientes;
+	private int nElementos;
+	
+	public CBanco() {
+		
+		nElementos = 0;
+		clientes = new CCuenta[nElementos];
+	}
+	
+	private void unElementomás(CCuenta[] clientesActuales) {
+		
+		nElementos = clientesActuales.length;
+		clientes = new CCuenta[nElementos +1];
+	}
+
+}

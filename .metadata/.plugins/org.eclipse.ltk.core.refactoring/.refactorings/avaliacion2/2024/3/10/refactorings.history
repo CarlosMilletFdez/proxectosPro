@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;preparatorios.prerara09&apos; to &apos;prepara09&apos;&#x0D;&#x0A;- Original project: &apos;avaliacion2&apos;&#x0D;&#x0A;- Original element: &apos;preparatorios.prerara09&apos;&#x0D;&#x0A;- Renamed element: &apos;preparatorios.prepara09&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;prerara09&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;preparatorios{prerara09.java[prerara09" matchStrategy="1" name="prepara09" qualified="false" references="true" similarDeclarations="false" stamp="1709715873350" textual="false" version="1.0"/>
+</session>

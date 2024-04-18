@@ -1,0 +1,13 @@
+package compilador35_40;
+
+import misClases.avaliacion1.CSerie;
+
+public class compi39 {
+	
+	public static void main(String[] args) {
+		
+	CSerie Serie = new CSerie();
+	Serie.amosaA_B(0, 0);
+	
+	}
+}

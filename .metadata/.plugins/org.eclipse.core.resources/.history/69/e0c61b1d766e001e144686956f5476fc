@@ -1,0 +1,25 @@
+package pizarra30_36;
+
+import java.util.Scanner;
+
+public class piza32 {
+
+	public static void main(String[] args) {
+		int idade;
+		Scanner teclado = new Scanner(System.in);
+		System.out.println("Introduza unha idade en anos: ");
+		idade = teclado.nextInt();
+		while ((idade >= 1 && idade <= 7) || (idade >= 65 && idade <= 110)) {
+			if (idade <= 7)
+				System.out.println("NIÑO con " + idade + " anos");
+
+			else if(idade >= 65)
+				System.out.println("ANCIANO con " + idade + " anos");
+
+			System.out.println("Introduza unha idade en anos: ");
+			idade = teclado.nextInt();
+		}
+		System.out.println("Esta idade: " + idade + ", e INCORRECTA.");
+		teclado.close();
+	}
+}

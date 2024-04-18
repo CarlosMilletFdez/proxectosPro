@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
+    <fullyQualifiedTypeName name="misClases.teoria.COrdenador"/>
+    <fullyQualifiedTypeName name="misClases.teoria.CEcuacion"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion1.CNotas"/>
+    <fullyQualifiedTypeName name="misClases.teoria.CPrueba"/>
+    <fullyQualifiedTypeName name="misClases.teoria.CComputador"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion1.CSerie"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion1.CFecha"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion1.CHora"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion2.CVectorAleatorio"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion2.CMatrices"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion2.CArrayCaracteres"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion2.CString"/>
+    <fullyQualifiedTypeName name="misClases.teoria.CMatrizEnteros"/>
+    <fullyQualifiedTypeName name="misClases.utilidades.DatosPersonales"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion2.CRecursivo"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion2.CMatrizCuadrada"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion2.CCadena"/>
+    <fullyQualifiedTypeName name="examePractico.avaliacion2.CCadena"/>
+    <fullyQualifiedTypeName name="examePractico.avaliacion2.CRecursivo"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="misClases.teoria.Leer"/>
+    <fullyQualifiedTypeName name="misClases.teoria.CFecha"/>
+    <fullyQualifiedTypeName name="misClases.teoria.CCirculo"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion3.ClaseB"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion3.ClaseC"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion3.ClaseD"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion3.Fichero"/>
+    <fullyQualifiedTypeName name="misClases.teoria.CCuentaAhorro"/>
+    <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="misClases.avaliacion3.ClaseA"/>
+    <fullyQualifiedTypeName name="misClases.teoria.CBanco"/>
+    <fullyQualifiedTypeName name="misClases.teoria.CCuenta"/>
+    <fullyQualifiedTypeName name="misClases.utilidades.Leer"/>
+</qualifiedTypeNameHistroy>

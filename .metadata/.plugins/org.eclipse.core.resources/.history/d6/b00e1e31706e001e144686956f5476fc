@@ -1,0 +1,18 @@
+package pizarra23_29;
+
+import java.io.IOException;
+
+public class piza28 {
+
+	public static void main(String[] args) throws IOException {
+		char tecla;
+		tecla = (char)System.in.read();
+		while (tecla > 'a' && tecla <'z'|| tecla == 'ñ' || tecla == ' ' ) {
+			System.out.print(tecla);
+			tecla = (char)System.in.read();
+		}
+			
+
+	}
+
+}

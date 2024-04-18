@@ -1,0 +1,17 @@
+package teoria.capitulo10;
+
+public class CApCuenta {
+
+	public static void main(String[] args) {
+		
+//		primerCliente();
+//		segundoCliente();
+//
+//	}
+//
+//	public static void primerCliente() throws ESaldoInsuficiente {
+		
+	}
+	
+	
+}

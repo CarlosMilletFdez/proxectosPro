@@ -1,0 +1,11 @@
+package preparatorios08_16;
+
+public class prepara10 {
+
+	public static void main(String[] args) {
+		
+		//el mismo que el anterior pero hay dos negativos
+		
+	}
+
+}

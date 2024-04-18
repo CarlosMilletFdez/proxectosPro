@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="binario/compilador1.jar"/>
+	<classpathentry kind="lib" path="binario/compilador2.jar"/>
+	<classpathentry kind="lib" path="binario/pizarra2.jar"/>
+	<classpathentry kind="lib" path="binario/unidad5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

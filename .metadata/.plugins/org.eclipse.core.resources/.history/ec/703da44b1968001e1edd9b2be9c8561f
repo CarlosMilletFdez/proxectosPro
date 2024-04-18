@@ -1,0 +1,15 @@
+package pizarra01_07;
+
+public class piza01 {
+
+	public static void main(String[] args) {
+		
+		int num;
+		while (num <= 10) {
+			int num;
+			num = 1;
+			System.out.println(num);
+		}
+		}
+
+}

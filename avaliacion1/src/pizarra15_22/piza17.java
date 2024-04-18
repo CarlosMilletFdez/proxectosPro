@@ -1,0 +1,27 @@
+package pizarra15_22;
+
+import java.util.Scanner;
+
+public class piza17 {
+
+	public static void main(String[] args) {
+		int num;
+		Scanner teclado = new Scanner(System.in);
+		System.out.print("Introduza un número: ");
+		num = teclado.nextInt();
+		if (num >= 1 && num <= 10) {
+			System.out.println("Entre o 1 e o 10");
+			System.out.println("Número segredo: " + num * 4);
+		} else if (num >= 11 && num <= 20) {
+			System.out.println("Entre o 11 e o 20");
+			System.out.println("Numero segredo: " + num * 3);
+		} else if (num <= 21 && num <= 30) {
+			System.out.println("Entre o 21 e o 30");
+			System.out.println("Número segredo: " + num * 2);
+		} else
+			System.out.println("NUMERO non permitido: " + num);
+
+		teclado.close();
+	}
+
+}

@@ -1,0 +1,17 @@
+package herencia;
+
+import misClases.avaliacion3.*;
+
+public class herencia08 {
+
+	public static void main(String[] args) {
+
+		ClaseA objA;
+		objA = new ClaseD();
+		objA.método_y();
+		objA.método_x();
+		((ClaseD)objA).método_z();
+
+	}
+
+}
